@@ -220,7 +220,7 @@ function roundToPowerOfTen(num, pow) {
  */
 function isPrime(n) {
   // throw new Error('Not implemented');
-  console.log(n);
+  // console.log(n);
   if (n <= 1) {
     return false;
   }
